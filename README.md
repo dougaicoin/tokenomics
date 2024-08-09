@@ -29,5 +29,7 @@ The tokenomics of $DOUG are structured as follows:
 **Protocol Growth:** 40% of the 1 billion token supply of $doug is allocated for protocol growth initiatives. This includes funding for marketing efforts, engaging professional market makers, securing listings on centralized exchanges such as Binance, and executing other strategic actions aimed at fostering the growth and adoption of the DougAI platform.
 
 **Research and Development:** The remaining 20% of the $doug token supply is dedicated to research and development efforts. This allocation supports ongoing innovation and enhancement of the platform, including funding for the current and future development team, as well as research initiatives aimed at advancing the capabilities of the DougAI ecosystem.
-![enter image description here](https://www.dougaicoin.com/assets/img/doug_home.png)
+
+![DougAI](https://www.dougaicoin.com/assets/img/doug_home.png)
+
 ### IN $DOUG WE TRUST
